@@ -1,0 +1,3 @@
+Python is fun
+This is day two
+We are building tools
