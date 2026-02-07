@@ -1,6 +1,6 @@
 # Python Tools
 
-Small command-line p;ractice tools built while learning Python + the Unix CLI
+Small command-line practice tools built while learning Python + the Unix CLI
 
 ## Tools
 
